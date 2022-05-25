@@ -12,7 +12,7 @@ namespace CustomRepo
         
         static void Main(string[] args)
         {
-            int pilih = 1;
+            SDSADASDSADSAD
             do
             {
                 //new Branch Ceritanya
