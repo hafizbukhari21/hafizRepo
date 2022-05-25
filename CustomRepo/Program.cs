@@ -15,7 +15,7 @@ namespace CustomRepo
             int pilih = 0;
             do
             {
-                Console.Clear();
+                Console.Clear(); //ini delete
                 ShowData();
                 Console.Write("\n\n 1. Insert\n 2.Update\n 3.Delete\n 4.Exit\n Masukan :");
                 pilih = Int32.Parse(Console.ReadLine());
