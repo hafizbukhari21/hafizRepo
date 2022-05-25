@@ -15,6 +15,7 @@ namespace CustomRepo
             int pilih = 0;
             do
             {
+                //new Branch Ceritanya
                 Console.Clear(); //ini delete
                 ShowData();
                 Console.Write("\n\n 1. Insert\n 2.Update\n 3.Delete\n 4.Exit\n Masukan :");
